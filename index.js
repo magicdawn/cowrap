@@ -7,7 +7,7 @@
 var co = require('co');
 
 var cowrap = module.exports = function cowrap(fn){
-  var fnname = (fn.name || '__anamyous_generator_function__');
+  var fnname = (fn.name || '__anonymous_generator_function__');
 
   var len = fn.length;
   var argArr = [];
