@@ -25,5 +25,11 @@
     "istanbul": "^0.4.5",
     "mocha": "^3.0.2",
     "should": "^11.1.0"
-  }
+  },
+  "files": [
+    "package.json",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
 }
