@@ -1,4 +1,6 @@
 # cowrap
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/cowrap.svg)](https://greenkeeper.io/)
 > co.wrap but keep function length
 
 [![Build Status](https://img.shields.io/travis/magicdawn/cowrap.svg?style=flat-square)](https://travis-ci.org/magicdawn/cowrap)
